@@ -1,7 +1,7 @@
 * 1.4.0
 
 		BACKWARDS COMPATIBILITY
-	   
+	   xcvxcv
 		- Flowchart connectors do not support minStubLength anymore. Use 'stub'.
 		- Perimeter anchor names now have a capitalised first letter. 'circle' is now 'Circle', for instance. This brings their naming convention
 		  into line with the various other names used throughout jsPlumb.
